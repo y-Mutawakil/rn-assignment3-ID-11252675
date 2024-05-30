@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         alignContent: 'center',
         flexDirection:'row',
-        width: '80%',
+        width: '100%',
         borderColor:'black',
     },
     bigText:{
@@ -30,5 +30,9 @@ const styles = StyleSheet.create({
     imgStyles:{
         backgroundColor:'white',
         borderRadius: 50,
+        width: 50,
+        height: 50,
+        justifyContent: 'center',
+        alignItems: 'center',
     },
 });

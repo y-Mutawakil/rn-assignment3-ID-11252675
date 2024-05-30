@@ -19,17 +19,16 @@ const styles = StyleSheet.create({
         flexDirection: "row",
         justifyContent: "space-between",
         alignItems: "center",
-        width: "80%",
+        width: "100%",
         marginVertical:25,
         gap:20
    },
    inputContainer: {
         backgroundColor: "white",
         flexDirection: "row",
-        justifyContent: "space-between",
         alignItems: "center",
-        borderRadius: 20,
-        padding:20,
+        borderRadius: 10,
+        padding:10,
         gap:20,
         width:"77%"
     },
